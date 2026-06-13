@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El rastro de tus perfumes
+
+This log tracks the cryptographic history and versioning for the song **El rastro de tus perfumes** (el-rastro-de-tus-perfumes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:51:00.484250 | `v1` | `0994e6cbc5142c70a74705d03019fbfaf86e3ca7327e0605a46b54a324698338` | `24cfdcaf3c6bcbe02a3c4f4ac212409683d2c91500111f093bb5c70cf873fc6f` | `2026-06-14_el-rastro-de-tus-perfumes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
