@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-rastro-de-tus-perfumes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for El rastro de tus perfumes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-rastro-de-tus-perfumes/) |
+| **Get License** | [License this song: El rastro de tus perfumes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-rastro-de-tus-perfumes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sigo buscando el rastro de tus perfumes
+> En esta ciudad donde las luces se consumen
+> Tú dejaste tu aroma en mi piel tatuado
+> Y ahora en la disco te busco desesperado
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
